@@ -1,6 +1,9 @@
 # KevinClient-Nextgen
 A Minecraft hacked client.
 
+# a114mc note: 个人黑历史，不喜勿喷，谢谢 仓库留着纪念用 我当时的电脑编程功夫纯粹三脚猫 我已放弃维护该项目
+# 有部分源码丢失，如CoordinateStrafe(绕着指定坐标TargetStrafe)，我也不打算重新上传，谢谢你！
+
 [KevinClient-Reborn's discord: Discord](https://discord.gg/PSP3CZAuag)
 
 # Nice Hmxix pit client, but hmxix server just dead for a long time
